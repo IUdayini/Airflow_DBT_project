@@ -1,0 +1,5 @@
+airflow_dbt_project/logs/
+airflow_dbt_project/.env
+__pycache__/
+*.pyc
+.DS_Store
